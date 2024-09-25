@@ -5,9 +5,9 @@
 import Typography  from "@mui/material/Typography";
 import Box from "@mui/material/Box";
 
-export default function TermsConditions() {
+export default function NotFound() {
 
-    return (
+    return (  
         <Box>
           <Typography> ERROR 404 STRÁNKA SA NENAŠLA</Typography>
         </Box>
